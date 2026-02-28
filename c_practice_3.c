@@ -1,4 +1,4 @@
-//to find the largest elemet from the array
+//to find the largest element from the array
 #include<stdio.h>
 int main(){
     int a[10]= {1,2,3,4,5,6,7,8,9,10};
@@ -10,3 +10,4 @@ int main(){
     }
     printf("\nMaximum element from the array is : %d",max);
 }
+
